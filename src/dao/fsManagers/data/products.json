@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Coca-Cola",
+    "description": "Refresco carbonatado",
+    "price": 2,
+    "thumbnail": "coca_cola.jpg",
+    "stock": 100,
+    "code": "001"
+  },
+  {
+    "id": 2,
+    "title": "Pepsi",
+    "description": "Refresco de cola",
+    "price": 1.75,
+    "thumbnail": "pepsi.jpg",
+    "stock": 80,
+    "code": "002"
+  },
+  {
+    "id": 3,
+    "title": "Sprite",
+    "description": "Refresco lima-limón",
+    "price": 1.5,
+    "thumbnail": "sprite.jpg",
+    "stock": 120,
+    "code": "003"
+  },
+  {
+    "id": 4,
+    "title": "Fanta",
+    "description": "Refresco de naranja",
+    "price": 1.5,
+    "thumbnail": "fanta.jpg",
+    "stock": 90,
+    "code": "004"
+  },
+  {
+    "id": 5,
+    "title": "Crush Naranja",
+    "description": "Refresco de naranja",
+    "price": 1.5,
+    "thumbnail": "crush_naranja.jpg",
+    "stock": 85,
+    "code": "005"
+  },
+  {
+    "id": 6,
+    "title": "Seven Up",
+    "description": "Refresco lima-limón",
+    "price": 1.5,
+    "thumbnail": "seven_up.jpg",
+    "stock": 95,
+    "code": "006"
+  },
+  {
+    "id": 7,
+    "title": "Monster Energy",
+    "description": "Bebida energizante con sabor a cítricos",
+    "price": 3.5,
+    "thumbnail": "monster_energy.jpg",
+    "stock": 70,
+    "code": "007"
+  },
+  {
+    "id": 8,
+    "title": "Red Bull Original",
+    "description": "Bebida energizante con sabor a frutas tropicales",
+    "price": 3,
+    "thumbnail": "redbull_original.jpg",
+    "stock": 60,
+    "code": "008"
+  },
+  {
+    "id": 9,
+    "title": "Rockstar Energy",
+    "description": "Bebida energizante con sabor a frutas del bosque",
+    "price": 3,
+    "thumbnail": "rockstar_energy.jpg",
+    "stock": 75,
+    "code": "009"
+  },
+  {
+    "id": 10,
+    "title": "Speed",
+    "description": "Bebida energizante con sabor a manzana",
+    "price": 2,
+    "thumbnail": "speed.jpg",
+    "stock": 85,
+    "code": "010"
+  }
+]
